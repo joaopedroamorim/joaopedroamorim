@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋 I'm João 
+
+I'm an Oceanographer from Belém-PA and I'm currently living in São Paulo - SP. 
 
 <!--
 **joaopedroamorim/joaopedroamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
