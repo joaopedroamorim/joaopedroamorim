@@ -9,7 +9,7 @@ I'm from Belém-PA, currently living in São Paulo - SP. I'm an oceanographer gr
 - Mesoscale circulation
 - Shelf circulation (CROCO model)
 
-I also enjoy programming, and I've been working with data analysis since 2015, here at github I intend to post and share some of the codes that I use, because I with that code-sharing is a great way to learn and evolute profissionally.
+I also enjoy programming, and I've been working with data analysis since 2015, here at github I intend to post and share some of the codes that I use, because I think that code-sharing is a great way to learn and evolute profissionally, so feel free to get in touch with me to share ideas and codes :)
 
 
 <!--
