@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm João 
 
-I'm from Belém-PA, currently living in São Paulo - SP. I'm an oceanographer graduated from UFPA (2017), with a master's degree in Physical Oceanography from USP (2020). I have been working with Physical Oceanography themes since my bachelor's and I have experience on the following topics:
+I'm from Belém-PA, currently living in São Paulo-SP. I'm an oceanographer graduated from UFPA (2017), with a master's degree in Physical Oceanography from USP (2020). I have been working with Physical Oceanography themes since my bachelor's and I have experience on the following topics:
 
 - Meteoceanographic data acquisition and analysis.
 - Time series analysis
