@@ -9,9 +9,6 @@ I'm from Belém-PA, currently living in São Paulo-SP. I'm an oceanographer grad
 - Mesoscale circulation
 - Shelf circulation (CROCO model)
 
-I also enjoy programming, and I've been working with data analysis since 2015, here at github I intend to post and share some of the codes that I use, feel free to get in touch with me to share ideas and codes :)
-
-
 <!--
 **joaopedroamorim/joaopedroamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
