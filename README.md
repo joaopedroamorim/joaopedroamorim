@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm João 
 
-I'm an oceanographer graduated from the Federal University of Pará - UFPA (2017), with a master's degree in Physical Oceanography at the University of São Paulo - USP (2020). Currently, I'm a PhD candidate in Physical Oceanography at USP, and I've been working with Physical Oceanography themes since my bachelor's. I have experience in the following topics:
+I'm an oceanographer graduated from the Federal University of Pará - UFPA (2017), with a master's degree in Physical Oceanography at the University of São Paulo - USP (2020). Currently, I'm a PhD Student in Physical Oceanography at USP, and I've been working with Physical Oceanography themes since my bachelor's. I have experience in the following topics:
 
 - Meteoceanographic data acquisition and analysis.
 - Time series analysis
